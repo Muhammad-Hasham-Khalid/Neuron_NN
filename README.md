@@ -1,6 +1,4 @@
-```markdown
-	Trying to write some basic Neural Network code in
-	[a]Python
-	[b]C++
-	[c]C 
-```
+##### Trying to write some basic NN code in:
+* Python
+* C++
+* C 
